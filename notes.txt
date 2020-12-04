@@ -3,3 +3,4 @@
   after nodemon installation open json package and change start script into "nodemon server.js" 
   and running our server automatically use "nodemon start"
 - install express = npm install express --save
+- install middleware = npm install morgan --save
